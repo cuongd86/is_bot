@@ -212,6 +212,7 @@ function is_bot($sistema){
         , 'Adsbot'
         , 'acebookexternalhit'
         , 'SpiderLing'
+        , 'SiteCheckerBotCrawler/1.0'
         );
 
  // si lo encuentra devuelve true, si no, false
